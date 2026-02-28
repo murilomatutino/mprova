@@ -16,6 +16,10 @@ body {
     line-height: 1.6;
 }
 
+.rounded{
+    border-radius: 50%;
+}
+
 /* HEADER / NAVBAR */
 header {
     position: fixed;
